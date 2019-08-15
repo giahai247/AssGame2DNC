@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: a65671e6797cc42488baeac58daa324a
+timeCreated: 1466069235
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spider_0
+    21300002: Spider_1
+    21300004: Spider_2
+    21300006: Spider_3
+    21300008: Spider_4
+    21300010: Spider_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spider_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 195
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.486145, y: 30.850752}
+        - {x: -34.513855, y: 30.850752}
+        - {x: -39.513855, y: -5.149248}
+        - {x: -39.513855, y: -30.149248}
+        - {x: 34.486145, y: -30.149248}
+        - {x: 40.486145, y: -23.149248}
+        - {x: 40.486145, y: 3.8507519}
+    - name: Spider_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 28
+        width: 193
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.099365, y: 29.350752}
+        - {x: -39.099365, y: -2.6492481}
+        - {x: -39.099365, y: -28.649248}
+        - {x: 38.900635, y: -28.649248}
+        - {x: 39.900635, y: -26.649248}
+        - {x: 39.900635, y: 18.350752}
+        - {x: 37.900635, y: 29.350752}
+    - name: Spider_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 192
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.11203, y: 30.850752}
+        - {x: -34.88797, y: 30.850752}
+        - {x: -38.88797, y: 5.850752}
+        - {x: -38.88797, y: -26.149248}
+        - {x: -34.88797, y: -30.149248}
+        - {x: 31.11203, y: -30.149248}
+        - {x: 40.11203, y: -24.149248}
+        - {x: 40.11203, y: 2.8507519}
+    - name: Spider_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 28
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.31195, y: 34.350754}
+        - {x: -33.31195, y: -33.649246}
+        - {x: 33.68805, y: -33.649246}
+        - {x: 34.68805, y: -28.649246}
+        - {x: 34.68805, y: 34.350754}
+    - name: Spider_4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 41
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.140533, y: 36.620743}
+        - {x: -32.140533, y: -27.379257}
+        - {x: -31.140533, y: -35.379257}
+        - {x: 24.859467, y: -35.379257}
+        - {x: 32.859467, y: -24.379257}
+        - {x: 32.859467, y: 36.620743}
+    - name: Spider_5
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 41
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.909332, y: -25.379257}
+        - {x: 32.909332, y: 36.620743}
+        - {x: -32.090668, y: 36.620743}
+        - {x: -32.090668, y: -14.379257}
+        - {x: -18.090668, y: -35.379257}
+        - {x: -8.090668, y: -35.379257}
+        - {x: -6.0906677, y: -32.379257}
+        - {x: -1.0906677, y: -35.379257}
+        - {x: 25.909332, y: -35.379257}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

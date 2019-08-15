@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: f3accf08cc4b0be4db0d2b1dd865a754
+timeCreated: 1466233994
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coins-hd_0
+    21300002: Coins-hd_1
+    21300004: Coins-hd_2
+    21300006: Coins-hd_3
+    21300008: Coins-hd_4
+    21300010: Coins-hd_5
+    21300012: Coins-hd_6
+    21300014: Coins-hd_7
+    21300016: Coins-hd_8
+    21300018: Coins-hd_9
+    21300020: Coins-hd_10
+    21300022: Coins-hd_11
+    21300024: Coins-hd_12
+    21300026: Coins-hd_13
+    21300028: Coins-hd_14
+    21300030: Coins-hd_15
+    21300032: Coins-hd_16
+    21300034: Coins-hd_17
+    21300036: Coins-hd_18
+    21300038: Coins-hd_19
+    21300040: Coins-hd_20
+    21300042: Coins-hd_21
+    21300044: Coins-hd_22
+    21300046: Coins-hd_23
+    21300048: Coins-hd_24
+    21300050: Coins-hd_25
+    21300052: Coins-hd_26
+    21300054: Coins-hd_27
+    21300056: Coins-hd_28
+    21300058: Coins-hd_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Coins-hd_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 57
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 57
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 57
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 57
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 57
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.064819, y: 19.86111}
+        - {x: -17.06482, y: 15.861111}
+        - {x: -17.06482, y: -9.138889}
+        - {x: -15.064819, y: -18.13889}
+        - {x: 15.935181, y: -18.13889}
+        - {x: 17.93518, y: -14.138889}
+        - {x: 17.93518, y: 18.86111}
+        - {x: 14.935181, y: 19.86111}
+    - name: Coins-hd_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 57
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.6388855, y: 19.86111}
+        - {x: -18.638885, y: 18.86111}
+        - {x: -18.638885, y: -9.138889}
+        - {x: -9.6388855, y: -18.13889}
+        - {x: 19.361115, y: -18.13889}
+        - {x: 19.361115, y: 19.86111}
+    - name: Coins-hd_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 57
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.925934, y: 19.86111}
+        - {x: -18.925934, y: 10.861111}
+        - {x: -18.925934, y: -12.138889}
+        - {x: -10.925934, y: -18.13889}
+        - {x: 19.074066, y: -18.13889}
+        - {x: 19.074066, y: 19.86111}
+    - name: Coins-hd_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 59
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.564819, y: -3.0648155}
+        - {x: -9.564819, y: -11.0648155}
+        - {x: -3.5648193, y: -17.064816}
+        - {x: 8.435181, y: -17.064816}
+        - {x: 18.43518, y: -8.0648155}
+        - {x: 18.43518, y: 3.9351845}
+        - {x: 14.435181, y: 9.9351845}
+        - {x: 5.4351807, y: 17.935184}
+        - {x: -3.5648193, y: 17.935184}
+        - {x: -15.564819, y: 4.9351845}
+    - name: Coins-hd_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 59
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5648193, y: 17.935184}
+        - {x: -16.56482, y: 5.9351845}
+        - {x: -16.56482, y: -3.0648155}
+        - {x: -5.5648193, y: -17.064816}
+        - {x: 10.435181, y: -17.064816}
+        - {x: 15.435181, y: -15.0648155}
+        - {x: 17.43518, y: -13.0648155}
+        - {x: 17.43518, y: 7.9351845}
+        - {x: 12.435181, y: 17.935184}
+    - name: Coins-hd_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 60
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0648193, y: 17.722221}
+        - {x: -16.06482, y: 4.7222214}
+        - {x: -16.06482, y: -2.2777786}
+        - {x: -13.064819, y: -9.277779}
+        - {x: -8.064819, y: -17.277779}
+        - {x: 10.935181, y: -17.277779}
+        - {x: 18.93518, y: -13.277779}
+        - {x: 18.93518, y: 7.7222214}
+        - {x: 7.9351807, y: 17.722221}
+    - name: Coins-hd_11
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 58
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.138916, y: 19.148148}
+        - {x: -17.138916, y: 4.1481476}
+        - {x: -17.138916, y: -8.851852}
+        - {x: -3.138916, y: -17.851852}
+        - {x: 16.861084, y: -17.851852}
+        - {x: 19.861084, y: -15.851852}
+        - {x: 19.861084, y: 12.148148}
+        - {x: 16.861084, y: 19.148148}
+    - name: Coins-hd_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.638889, y: 19.36111}
+        - {x: -18.63889, y: 13.361111}
+        - {x: -18.63889, y: -8.638889}
+        - {x: -15.638889, y: -18.63889}
+        - {x: 15.361111, y: -18.63889}
+        - {x: 19.36111, y: -14.638889}
+        - {x: 19.36111, y: 16.36111}
+        - {x: 18.36111, y: 19.36111}
+    - name: Coins-hd_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.925926, y: 19.36111}
+        - {x: -18.925926, y: -12.638889}
+        - {x: -12.925926, y: -18.63889}
+        - {x: 16.074074, y: -18.63889}
+        - {x: 19.074074, y: -17.63889}
+        - {x: 19.074074, y: 19.36111}
+    - name: Coins-hd_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.361107, y: 19.36111}
+        - {x: -14.638893, y: 19.36111}
+        - {x: -18.638893, y: 18.36111}
+        - {x: -18.638893, y: -16.63889}
+        - {x: -13.638893, y: -18.63889}
+        - {x: 16.361107, y: -18.63889}
+        - {x: 19.361107, y: -15.638889}
+        - {x: 19.361107, y: 13.361111}
+        - {x: 18.361107, y: 16.36111}
+    - name: Coins-hd_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.8518524, y: 19.36111}
+        - {x: -14.851852, y: 14.361111}
+        - {x: -17.851852, y: 10.361111}
+        - {x: -17.851852, y: -18.63889}
+        - {x: 18.148148, y: -18.63889}
+        - {x: 19.148148, y: -16.63889}
+        - {x: 19.148148, y: 14.361111}
+        - {x: 17.148148, y: 19.36111}
+    - name: Coins-hd_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.7777863, y: 19.36111}
+        - {x: -7.7777863, y: 18.36111}
+        - {x: -10.777786, y: 15.361111}
+        - {x: -14.777786, y: 8.361111}
+        - {x: -15.777786, y: 6.3611107}
+        - {x: -15.777786, y: -7.6388893}
+        - {x: -10.777786, y: -18.63889}
+        - {x: 12.222214, y: -18.63889}
+        - {x: 17.222214, y: -13.638889}
+        - {x: 17.222214, y: 16.36111}
+        - {x: 11.222214, y: 19.36111}
+    - name: Coins-hd_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.851868, y: 18.148148}
+        - {x: -17.851868, y: 10.148148}
+        - {x: -17.851868, y: -12.851852}
+        - {x: -14.851868, y: -17.851852}
+        - {x: 18.148132, y: -17.851852}
+        - {x: 18.148132, y: 13.148148}
+        - {x: 8.148132, y: 18.148148}
+    - name: Coins-hd_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 4
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.8518677, y: 18.148148}
+        - {x: -16.851868, y: 13.148148}
+        - {x: -16.851868, y: -10.851852}
+        - {x: -11.851868, y: -17.851852}
+        - {x: 12.148132, y: -17.851852}
+        - {x: 19.148132, y: -12.851852}
+        - {x: 19.148132, y: 11.148148}
+        - {x: 14.148132, y: 18.148148}
+    - name: Coins-hd_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 36
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_23
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 41
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 26
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 17
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coins-hd_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
